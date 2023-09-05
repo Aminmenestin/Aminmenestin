@@ -1,22 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">My name is Amin and I'm a back-end developer, from kerman</p>
-
-###
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">✨ Creating bugs since 3 years ago <br>📚 I'm currently learning laravel<br>🎯 Goals: to become a full-stack developer</p>
 
-###
-
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
@@ -34,4 +24,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
-###

@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Amin and I'm a back-end developer, from kerman</p>
+<p align="left">My name is Amin and I'm a back-end developer, from Iran/kerman</p>
 
 <h2 align="left">About me</h2>
 

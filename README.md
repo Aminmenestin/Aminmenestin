@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since <br>📚 I'm currently learning laravel<br>🎯 Goals: to become a full-stack developer</p>
+<p align="left">✨ Creating bugs since 3 years ago <br>📚 I'm currently learning laravel<br>🎯 Goals: to become a full-stack developer</p>
 
 ###
 

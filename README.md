@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since 3 years ago <br>📚 I'm currently learning laravel<br>🎯 Goals: to become a full-stack developer</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning laravel<br>🎯 Goals: to become a full-stack developer</p>
 
 <h2 align="left">I code with</h2>
 

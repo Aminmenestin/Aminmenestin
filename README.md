@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since 2020<br>📚</p>
+<p align="left">✨ Creating bugs since 2020<br></p>
 
 <h2 align="left">I code with</h2>
 

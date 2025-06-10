@@ -35,13 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
 </div>
 
----
-
-<h2 align="left">📫 Let's connect</h2>
-
-<p align="left">
-If you're building something cool, breaking something weird, or just wanna say hi, hit me up!<br>
-📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-🌐 Website: [coming soon]<br>
-☕ Coffee? Always.
-</p>
